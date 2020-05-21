@@ -1,1 +1,3 @@
 touch createfile.txt
+git add filename.exe
+git add .  -> add all file
